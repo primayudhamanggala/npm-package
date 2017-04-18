@@ -1,0 +1,22 @@
+{
+  "name": "convert-currency",
+  "version": "0.1.0",
+  "description": "convert number or string to currency format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primayudhamanggala/npm-package.git"
+  },
+  "keywords": [
+    "currency"
+  ],
+  "author": "primyudrm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/primayudhamanggala/npm-package/issues"
+  },
+  "homepage": "https://github.com/primayudhamanggala/npm-package#readme"
+}
